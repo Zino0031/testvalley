@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.react-multiple-carousel__arrow {
+  background: rgba(80, 76, 76, 0.684) !important;
+}
